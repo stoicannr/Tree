@@ -1,0 +1,3 @@
+﻿  Tree.cpp
+C:\Users\Robert\source\repos\Tree\Tree\Tree.cpp(134): warning C4715: 'Delete': not all control paths return a value
+  Tree.vcxproj -> C:\Users\Robert\source\repos\Tree\Debug\Tree.exe
